@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Capistrano::Template::VERSION
   gem.authors       = ["Tony Pitluga"]
   gem.email         = ["tony.pitluga@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{This is our gem description}
+  gem.summary       = gem.description
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
